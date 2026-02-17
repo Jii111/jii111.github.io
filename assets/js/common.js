@@ -57,4 +57,9 @@ $(document).ready(function () {
   $('[data-toggle="popover"]').popover({
     trigger: "hover",
   });
+
+  // basic right-click prevention for marked images
+  $(document).on("contextmenu", "img[data-no-context='true']", function (event) {
+    event.preventDefault();
+  });
 });
