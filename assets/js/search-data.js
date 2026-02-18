@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-llm-lasso-a-robust-framework-for-domain-informed-feature-selection-and-regularization",
+        },{id: "post-impacts-of-innovation-school-system-in-korea-a-latent-space-item-response-model-with-neyman-scott-point-process",
+        
+          title: "Impacts of Innovation School System in Korea: A Latent Space Item Response Model...",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/neyman-scott-point-process/";
+          
+        },
+      },{id: "post-llm-lasso-a-robust-framework-for-domain-informed-feature-selection-and-regularization",
         
           title: "LLM-Lasso: A Robust Framework for Domain-Informed Feature Selection and Regularization",
         
