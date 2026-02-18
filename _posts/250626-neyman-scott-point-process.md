@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "250626 그룹미팅자료"
-date: 2026-02-18 10:00:00
-description: "그룹미팅 슬라이드"
-tags: meeting slides
+title: "Impacts of Innovation School System in Korea: A Latent Space Item Response Model with Neyman-Scott Point Process"
+date: 2025-06-26 15:00:00
+description: ""
+tags: paper_review
 categories: blog
 ---
 
