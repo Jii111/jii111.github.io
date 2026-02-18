@@ -9,7 +9,7 @@ categories: blog
 
 <style>
 .group-meeting-slide {
-  width: 80%;
+  width: 90%;
   height: auto;
   display: block;
   margin: 0 auto 24px;
