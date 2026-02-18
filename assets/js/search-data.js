@@ -41,33 +41,11 @@ ninja.data = [{
         
           title: "LLM-Lasso: A Robust Framework for Domain-Informed Feature Selection and Regularization",
         
-        description: "LLM-Lasso 슬라이드",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/llm-lasso/";
-          
-        },
-      },{id: "post-a-post-with-plotly-js",
-        
-          title: "a post with plotly.js",
-        
-        description: "this is what included plotly.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/plotly/";
-          
-        },
-      },{id: "post-a-post-with-formatting-and-links",
-        
-          title: "a post with formatting and links",
-        
-        description: "march &amp; april, looking forward to summer",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/formatting-and-links/";
+            window.location.href = "/blog/2025/llm-lasso/";
           
         },
       },{id: "news-best-project-award-at-the-2022-ict-mentoring-conference-korea-information-processing-society",
