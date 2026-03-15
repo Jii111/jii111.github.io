@@ -37,7 +37,73 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-수리통계학-amp",
+        },{id: "post-통계학-amp",
+        
+          title: "통계학 Ⅰ &amp; Ⅱ",
+        
+        description: "통계학 1, 2 핵심 개념 정리 — 기술통계, 확률, 추론, 분산분석, 회귀분석",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/statistics-12/";
+          
+        },
+      },{id: "post-회귀-분석",
+        
+          title: "회귀 분석",
+        
+        description: "단순선형회귀부터 다중선형회귀, 잔차분석, 모형 선택까지 핵심 정리",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/regression/";
+          
+        },
+      },{id: "post-기초확률론",
+        
+          title: "기초확률론",
+        
+        description: "기초확률론 핵심 개념 정리 — 집합, 확률공간, 확률변수, 분포, 생성함수",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/probability-and-statistics/";
+          
+        },
+      },{id: "post-probabilistic-ml-reinforcement-learning",
+        
+          title: "Probabilistic ML: Reinforcement Learning",
+        
+        description: "PML Chapter 35 — RL 핵심 개념 및 알고리즘 정리",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/pml-rl/";
+          
+        },
+      },{id: "post-probabilistic-ml-mcmc",
+        
+          title: "Probabilistic ML: MCMC",
+        
+        description: "PML Chapter 12 — Markov Chain Monte Carlo 핵심 정리",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/pml-mcmc/";
+          
+        },
+      },{id: "post-probabilistic-ml-latent-factor-models",
+        
+          title: "Probabilistic ML: Latent Factor Models",
+        
+        description: "PML Chapter 28 — Mixture Models, Factor Analysis, ICA 핵심 정리",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/pml-latent-factor-models/";
+          
+        },
+      },{id: "post-수리통계학-amp",
         
           title: "수리통계학 Ⅰ &amp; Ⅱ",
         
