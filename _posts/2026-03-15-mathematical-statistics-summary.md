@@ -1,12 +1,47 @@
 ---
 layout: post
-title: "수리통계학 Ⅰ & Ⅱ 핵심 요약"
+title: "수리통계학 Ⅰ & Ⅱ"
 date: 2026-03-15 00:00:00
 description: "수리통계학 1, 2 및 연습 핵심 개념 정리"
 tags: statistics math
 categories: study_notes
 math: true
 ---
+
+<style>
+.post-content h2 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.post-content h3,
+.post-content h4,
+.post-content p,
+.post-content li,
+.post-content td,
+.post-content th {
+  font-size: 0.95rem;
+  font-weight: 400;
+}
+
+.post-content h3 {
+  font-weight: 600;
+}
+
+.post-content blockquote {
+  border-left: none;
+  background: none;
+  padding: 0;
+  margin: 0.3em 0;
+  font-size: 0.95rem;
+}
+
+.post-content blockquote p {
+  margin-bottom: 0;
+}
+</style>
 
 ## Chap 1. 확률과 확률분포
 
