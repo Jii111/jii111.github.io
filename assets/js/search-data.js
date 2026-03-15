@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-impacts-of-innovation-school-system-in-korea-a-latent-space-item-response-model-with-neyman-scott-point-process",
+        },{id: "post-수리통계학-amp-핵심-요약",
+        
+          title: "수리통계학 Ⅰ &amp; Ⅱ 핵심 요약",
+        
+        description: "수리통계학 1, 2 및 연습 핵심 개념 정리",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/mathematical-statistics-summary/";
+          
+        },
+      },{id: "post-impacts-of-innovation-school-system-in-korea-a-latent-space-item-response-model-with-neyman-scott-point-process",
         
           title: "Impacts of Innovation School System in Korea: A Latent Space Item Response Model...",
         
