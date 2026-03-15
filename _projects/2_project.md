@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Clustering for Customer Segmentation and Identification of Significant Survey Indicators
+description: 연세데이터사이언스연구소
 img: assets/img/3.jpg
 importance: 2
 category: work
