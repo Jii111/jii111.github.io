@@ -6,6 +6,7 @@ assets/js/distillpub/template.v2.js
 assets/js/search/*.js
 assets/plotly/demo.html
 lighthouse_results/**
+_config.yml
 _posts/2015-10-20-math.md
 _posts/2026-03-15-mathematical-statistics-summary.md
 _posts/2026-03-16-pml-latent-factor-models.md
