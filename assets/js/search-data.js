@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-수리통계학-amp-핵심-요약",
+        },{id: "post-수리통계학-amp",
         
-          title: "수리통계학 Ⅰ &amp; Ⅱ 핵심 요약",
+          title: "수리통계학 Ⅰ &amp; Ⅱ",
         
         description: "수리통계학 1, 2 및 연습 핵심 개념 정리",
         section: "Posts",
