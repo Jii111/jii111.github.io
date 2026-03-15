@@ -9,11 +9,19 @@ math: true
 ---
 
 <style>
+.post-title {
+  font-weight: 700;
+}
+
 .post-content h2 {
   font-size: 1.2rem;
   font-weight: 700;
   margin-top: 2rem;
   margin-bottom: 0.5rem;
+  border-left: 4px solid #222;
+  background: none;
+  padding: 0.3em 0.7em;
+  color: #222;
 }
 
 .post-content h3,
