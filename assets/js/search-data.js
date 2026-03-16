@@ -165,7 +165,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-behavioral-log-analysis-of-financial-app-users",
           title: 'Behavioral Log Analysis of Financial App Users',
-          description: "금융 어플 사용자 행동 데이터를 이용한 대출 신청 예측 및 고객 군집 분석)",
+          description: "금융 어플 사용자 행동 데이터를 이용한 대출 신청 예측 및 고객 군집 분석",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
