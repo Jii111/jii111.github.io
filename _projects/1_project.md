@@ -28,7 +28,7 @@ Developed a Korean query-response framework optimized for cost efficiency and do
     Overview of the project
 </div>
 
-# You can also have artistically styled 2/3 + 1/3 images
+You can also have artistically styled 2/3 + 1/3 images
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -48,5 +48,4 @@ You can also put regular text between your rows of images, even citations {% cit
 Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-# TODO
 Here's the code for the project:
