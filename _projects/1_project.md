@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cost-Efficient and Domain-Adaptive Korean AI Chatbot Development
-description: 한국어 AI 챗봇의 비용 효율화 및 질의 대응 성능 고도화 연구\n 실제 서비스 환경에서 비용 효율성과 도메인 적응성을 갖춘 한국어 질의 대응 프레임워크 구축
+description: 한국어 AI 챗봇의 비용 효율화 및 질의 대응 성능 고도화 연구: 실제 서비스 환경에서 비용 효율성과 도메인 적응성을 갖춘 한국어 질의 대응 프레임워크 구축
 img: assets/img/ai_seoul_fellow_poster.png
 importance: 1
 category: projects
