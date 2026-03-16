@@ -59,6 +59,11 @@ layout: default
   </header>
 
   <article class="post-content">
+    {% if page.thumbnail %}
+      <div style="width: 100%; display: flex; align-items: center; justify-content: center; background: var(--global-code-bg-color, #f5f5f5); border-radius: 6px; overflow: hidden; margin-bottom: 1.5rem;">
+        <img src="{{ page.thumbnail | relative_url }}" style="object-fit: contain; max-height: 400px; max-width: 100%; width: auto; height: auto; display: block;" alt="{{ page.title }}">
+      </div>
+    {% endif %}
     {% if page.toc and page.toc.beginning %}
       <div id="table-of-contents">
         {% toc %}
