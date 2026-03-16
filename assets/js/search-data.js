@@ -153,14 +153,14 @@ ninja.data = [{
           section: "News",},{id: "news-admission-to-the-m-s-program-in-statistics-yonsei-university",
           title: 'Admission to the M.S. Program in Statistics, Yonsei University',
           description: "",
-          section: "News",},{id: "projects-cost-efficient-and-domain-adaptive-korean-ai-chatbot-development",
-          title: 'Cost-Efficient and Domain-Adaptive Korean AI Chatbot Development',
-          description: "한국어 AI 챗봇의 비용 효율화 및 질의 대응 성능 고도화 연구\n 실제 서비스 환경에서 비용 효율성과 도메인 적응성을 갖춘 한국어 질의 대응 프레임워크 구축",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-clustering-for-customer-segmentation-and-identification-of-significant-survey-indicators",
-          title: 'Clustering for Customer Segmentation and Identification of Significant Survey Indicators',
-          description: "연세데이터사이언스연구소",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-behavioral-log-analysis-of-financial-app-users",
