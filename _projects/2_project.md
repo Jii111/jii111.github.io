@@ -4,7 +4,7 @@ title: Clustering for Customer Segmentation and Identification of Significant Su
 description: 연세데이터사이언스연구소
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: projects
 giscus_comments: true
 ---
 
