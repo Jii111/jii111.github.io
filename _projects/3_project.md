@@ -4,6 +4,7 @@ title: Behavioral Log Analysis of Financial App Users
 description: 금융 어플 사용자 행동 데이터를 이용한 대출 신청 예측 및 고객 군집 분석
 img: assets/img/2.jpg
 importance: 2
+selected: true
 category: projects
 related_publications: true
 ---

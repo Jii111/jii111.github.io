@@ -56,12 +56,25 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
-    <!-- Selected papers -->
+    <!-- Selected papers & projects -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
+        <a href="{{ '/pub-projects/' | relative_url }}" style="color: inherit">selected publications & projects</a>
       </h2>
       {% include selected_papers.liquid %}
+      {% assign selected_projects = site.projects | where: "selected", true | sort: "importance" %}
+      {% if selected_projects.size > 0 %}
+        <div class="selected-projects mt-3">
+          {% for project in selected_projects %}
+            <div class="row mb-2">
+              <div class="col">
+                <a href="{{ project.url | relative_url }}" class="font-weight-bold">{{ project.title }}</a>
+                {% if project.description %}<p class="mb-0 text-muted">{{ project.description }}</p>{% endif %}
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      {% endif %}
     {% endif %}
 
     <!-- Social -->

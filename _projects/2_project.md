@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clustering for Customer Segmentation and Identification of Significant Survey Indicators
-description: 연세데이터사이언스연구소: 고객 군집화 및 설문 문항 선별
+description: 연세데이터사이언스연구소; 고객 군집화 및 설문 문항 선별
 img: assets/img/3.jpg
 importance: 3
 category: projects
